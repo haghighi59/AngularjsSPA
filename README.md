@@ -1,7 +1,7 @@
 # AngularjsSPA
 Directory search application using angulajs
 
-Please add Web site to (IIS) for using all features of application and accessing to data.json :
+Please host Web site to (IIS) for using all features of application and accessing to data.json :
 
 To create a new Web site in IIS, follow these steps:
 
