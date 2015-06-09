@@ -16,5 +16,15 @@ Click Finish.
 
 http://haghighi59.github.io/AngularjsSPA
 
+List
 
-![Search Box list](https://github.com/haghighi59/AngularjsSPA/blob/master/images/list.jpg)
+![Search Box List](https://github.com/haghighi59/AngularjsSPA/blob/master/images/list.jpg)
+
+Details
+
+![Search Box Details](https://github.com/haghighi59/AngularjsSPA/blob/master/images/details.jpg)
+
+
+
+
+
